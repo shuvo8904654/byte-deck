@@ -38,7 +38,7 @@ especially wiring and footprints, but things made more sense as I continued work
 <h2>Images</h2>
 
 <p>Top Case</p>
-<img src="https://raw.githubusercontent.com/shuvo8904654/byte-deck/main/Images/TopCase.png" alt="Top Case" width="400">
+<img src="https://raw.githubusercontent.com/shuvo8904654/byte-deck/refs/heads/main/Images/Screenshot%20from%202025-12-06%2017-56-10.png" alt="Top Case" width="400">
 
 <p>Bottom Case</p>
 <img src="https://raw.githubusercontent.com/shuvo8904654/byte-deck/main/Images/BottomCase.png" alt="Bottom Case" width="400">
